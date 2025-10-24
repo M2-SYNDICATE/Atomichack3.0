@@ -1,0 +1,8 @@
+.env
+ngtu_venv/
+data/
+test.db
+BACKUP_OLD/
+BACKUP_1/
+BACKUP_2/
+__pycache__/
