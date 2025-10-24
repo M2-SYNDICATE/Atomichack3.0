@@ -25,16 +25,16 @@
 ## Данные для входа
 
 **Разраотчик чертежа**
-логин: developer
-пароль: BT330S3bhlD0
+- логин: developer
+- пароль: BT330S3bhlD0
 
 **Нормоконтролур**
-логин: norm_con
-пароль: D1ZroSODs0dO
+- логин: norm_con
+- пароль: D1ZroSODs0dO
 
 **Администратор**
-логин: admin
-пароль: mGtHWBM2Pp7z
+- логин: admin
+- пароль: mGtHWBM2Pp7z
 
 ## ✨ Функции
 
